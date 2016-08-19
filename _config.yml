@@ -1,0 +1,14 @@
+layout_spectrum: 0.5958064389415085
+typography_spectrum: 0.23388963984325528
+color:
+  brandStrength: 0.14145905547775328
+  lightness: 0.38935912726446986
+  saturation: 0.1730411215685308
+  rhythmicContrast: 0.9221924813464284
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: matsy
